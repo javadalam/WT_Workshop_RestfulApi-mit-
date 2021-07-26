@@ -1,5 +1,4 @@
 <!--
----
 layout: workshop
 titel: Python Flask Restful Api
 social-media-untertitel: Asynchronen Workshop
@@ -11,10 +10,9 @@ art: workshop
 termin: 
 dauer: 120-150 Minuten 
 raum: https://th-koeln.zoom.us/j/89337586017?pwd=L2hBbmczaWJ6TStkUjMxTHlRc0ZhUT09
----
 -->
 
-![Restful Api mit Flask in Python](Python.png)
+![Restful Api mit Flask in Python](Pyhton.png)
 
 # Restful Api mit Flask in Python
 
