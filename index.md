@@ -13,7 +13,7 @@ raum: https://th-koeln.zoom.us/j/89337586017?pwd=L2hBbmczaWJ6TStkUjMxTHlRc0ZhUT0
 ---
 
 
-![Restful Api mit Flask in Python](Pyhton.png)
+![Restful Api mit Flask in Python](Python.jpg)
 
 # Restful Api mit Flask in Python
 

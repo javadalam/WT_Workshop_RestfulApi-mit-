@@ -12,17 +12,17 @@ dauer: 120-150 Minuten
 raum: https://th-koeln.zoom.us/j/89337586017?pwd=L2hBbmczaWJ6TStkUjMxTHlRc0ZhUT09
 -->
 
-![Restful Api mit Flask in Python](Pyhton.png)
+![Restful Api mit Flask in Python](Python.jpg)
 
 # Restful Api mit Flask in Python
 
 Coach: Javad Alamdar<br>
 Dauer: 120-150 Minuten<br>
-Raum: Asynchronen Workshop<br>
+Termin: Asynchronen Workshop<br>
 
 ---
 
-Diese Repository beinhaltete die Materialien für den Workshop ["Restful API mit Flask in Python"](https://javadalam.github.io/WT_Workshop_RestfulApi-mit-Flask-in-Python/) für den Kurs Webtechnologien im Master Medieninformatik an der TH Köln.
+Diese Repository beinhaltete die Materialien für den Workshop ["Restful API mit Flask in Python"](https://javadalam.github.io/WT_Workshop_RestfulApi-mit-/) für den Kurs Webtechnologien im Master Medieninformatik an der TH Köln.
 
 ---
 
@@ -42,7 +42,7 @@ Aufgrund dem Anwendungsbereich von *Flask* richtet sich der Workshop stärker an
 ## Vorbereitungen
 - [Python](https://www.python.org/downloads/) für VSCode installieren 
 - [Postman](https://www.postman.com/downloads/) installieren (Optional)
-- [Github Repo zum Workshop](https://github.com/javadalam/WT_Workshop_Python-Flask-RestApi) clonen 
+- [Github Repo zum Workshop](https://github.com/javadalam/WT_Workshop_RestfulApi-mit-) clonen 
 
 ## Material
 - Python [Dokumentation](https://docs.python.org/3/)
