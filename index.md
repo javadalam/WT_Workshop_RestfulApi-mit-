@@ -11,7 +11,7 @@ termin:
 dauer: 120-150 Minuten 
 raum: https://th-koeln.zoom.us/j/89337586017?pwd=L2hBbmczaWJ6TStkUjMxTHlRc0ZhUT09
 ---
-
+theme: jekyll-theme-cayman
 
 ![Restful Api mit Flask in Python](Python.jpg)
 
